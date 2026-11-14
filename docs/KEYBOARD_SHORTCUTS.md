@@ -18,12 +18,12 @@ This is the target shortcut map for GarageBand Web Studio. The app should displa
 | Select All | Ctrl + A | ⌘ + A |
 | Import audio | Ctrl + I | ⌘ + I |
 | Export / Bounce | Ctrl + E | ⌘ + E |
-| Open command palette | Ctrl + K | ⌘ + K |
+| Open command palette | Ctrl + Shift + P | ⌘ + Shift + P |
+| Toggle piano keyboard | Ctrl + K | ⌘ + K |
 | Duplicate selected region/track | D | D |
 | Delete selection | Delete / Backspace | Delete / Backspace |
 | Zoom in / out | + / - | + / - |
 | Nudge selection | Arrow keys | Arrow keys |
-| Toggle piano keyboard | Ctrl + K (when palette is not focused) | ⌘ + K (when palette is not focused) |
 | Return playhead to start | Home | Home |
 | Toggle lower editor | E | E |
 | Toggle mixer | X | X |
